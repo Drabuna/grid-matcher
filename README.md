@@ -4,7 +4,7 @@
 * NUnit for unit testing
 
 ## How to build and run tests
-After cloning the repo make sure that you have.
+Clone the repo and then:
 
     cd .\grid-matcher\
     dotnet restore
