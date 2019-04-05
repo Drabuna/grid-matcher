@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Square Match 4",
+    "Template": [ {"X": 0, "Y": 0, "Color": "Any"}, {"X": 1, "Y": 0, "Color": "LikeFirst"}, {"X": 0, "Y": 1, "Color": "LikeFirst"}, {"X": 1, "Y": 1, "Color": "LikeFirst"}]
+  },
+  {
+    "Name": "Square Match 4 With Red And Yellow Variation 1",
+    "Template": [ {"X": 0, "Y": 0, "Color": "Green"}, {"X": 1, "Y": 0, "Color": "Red"}, {"X": 0, "Y": 1, "Color": "Green"}, {"X": 1, "Y": 1, "Color": "Green"}, {"X": 1, "Y": 2, "Color": "Yellow"}]
+  },
+  {
+    "Name": "Square Match 4 With Red And Yellow Variation 2",
+    "Template": [ {"X": 0, "Y": 0, "Color": "Red"}, {"X": 1, "Y": 0, "Color": "Green"}, {"X": 0, "Y": 1, "Color": "Green"}, {"X": 1, "Y": 1, "Color": "Green"}, {"X": 0, "Y": 2, "Color": "Yellow"}]
+  },
+  {
+    "Name": "Square Match 4 With Red And Yellow Variation 3",
+    "Template": [ {"X": 0, "Y": 0, "Color": "Red"}, {"X": 1, "Y": 0, "Color": "Green"}, {"X": 2, "Y": 0, "Color": "Yellow"}, {"X": 0, "Y": 1, "Color": "Green"}, {"X": 1, "Y": 1, "Color": "Green"}]
+  },
+  {
+    "Name": "Square Match 4 With Red And Yellow Variation 4",
+    "Template": [ {"X": 0, "Y": 0, "Color": "Green"}, {"X": 1, "Y": 0, "Color": "Green"}, {"X": 0, "Y": 1, "Color": "Red"}, {"X": 1, "Y": 1, "Color": "Green"}, {"X": 2, "Y": 1, "Color": "Yellow"}]
+  }
+]

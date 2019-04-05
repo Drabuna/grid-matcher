@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridMatcher", "GridMatcher\GridMatcher.csproj", "{1FAC07AF-9EE2-440C-9A06-30D0B806522F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridMatcher.Tests", "GridMatcher.Tests\GridMatcher.Tests.csproj", "{3EE4FB24-3270-48E1-B1E2-1EE3E1006643}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FAC07AF-9EE2-440C-9A06-30D0B806522F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FAC07AF-9EE2-440C-9A06-30D0B806522F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FAC07AF-9EE2-440C-9A06-30D0B806522F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FAC07AF-9EE2-440C-9A06-30D0B806522F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EE4FB24-3270-48E1-B1E2-1EE3E1006643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE4FB24-3270-48E1-B1E2-1EE3E1006643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE4FB24-3270-48E1-B1E2-1EE3E1006643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE4FB24-3270-48E1-B1E2-1EE3E1006643}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

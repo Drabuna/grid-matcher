@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "Vertical Match 3",
+    "Template": [ {"X": 0, "Y": 0, "Color": "Any"}, {"X": 0, "Y": 1, "Color": "LikeFirst"}, {"X": 0, "Y": 2, "Color": "LikeFirst"}]
+  },
+  {
+    "Name": "Horizontal Match 4",
+    "Template": [ {"X": 0, "Y": 0, "Color": "Any"}, {"X": 1, "Y": 0, "Color": "LikeFirst"}, {"X": 2, "Y": 0, "Color": "LikeFirst"}, {"X": 3, "Y": 0, "Color": "LikeFirst"}]
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "Match 5 L1 With Extra Chips",
+    "Template": [ {"X": 0, "Y": 0, "Color": "Yellow"}, {"X": 1, "Y": 0, "Color": "Red"}, {"X": 2, "Y":0, "Color": "Green"}, {"X": 3, "Y": 0, "Color": "Green"}, {"X": 1, "Y": 1, "Color": "Green"}, {"X": 1, "Y": 2, "Color": "Green"}]
+  },
+  {
+    "Name": "Match 5 L2 With Extra Chips",
+    "Template": [ {"X": 0, "Y": 0, "Color": "Green"}, {"X": 1, "Y": 0, "Color": "Green"}, {"X": 2, "Y":0, "Color": "Red"}, {"X": 2, "Y": 1, "Color": "Yellow"}, {"X": 2, "Y": -1, "Color": "Green"}, {"X": 2, "Y": -2, "Color": "Green"}]
+  }
+]
